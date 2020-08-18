@@ -1,0 +1,122 @@
+¿En qué ciudad se fundó Dell Technologies?;
+Los Ángeles;
+Austin;
+Ninguna de las anteriores;
+Austin;
+|
+¿Cuántos años de experiencia en el mercado IT tiene Datastar Argentina?;
+20;
+12;
+9;
+20;
+|
+¿En qué año se creó Dell Technologies?;
+1979;
+1983;
+1985;
+1983;
+|
+¿Cuántos rombos tiene el logo de Datastar?;
+2;
+3;
+4;
+3;
+|
+¿Cuál es el segundo nombre de Lionel Messi?;
+Andrés;
+Ariel;
+Ninguno de los anteriores;
+Andrés;
+|
+¿Qué productos forman parte de la línea Client de Dell Technologies?;
+Latitude;
+Precision;
+todos los anteriores;
+todos los anteriores;
+|
+¿Qué nivel de Patnership Datastar Argentina tiene con Dell?;
+Silver;
+Gold;
+Platinum;
+Platinum;
+|
+¿Cuál es el elemento que debilita a Superman?;
+Krimonita;
+Kriptonita;
+Nada lo debilita, es Superman;
+Kriptonita;
+|
+¿En qué año se estableció Datastar en el Distrito Tecnológico?;
+2004;
+2012;
+2016;
+2016;
+|
+¿Qué producto de Almacenamiento fue lanzado recientemente por Dell Technologies?;
+Isilon;
+PowerStore;
+PowerMax;
+PowerStore;
+|
+¿Cuál de estos servicios/soluciones ofrece Datastar Argentina?;
+Cloud & Software Factory;
+Software Factory & Infraestructura;
+Todas las anteriores;
+Todas las anteriores;
+|
+¿Cuál de estos productos ofrece Dell Technologies?;
+Laptop & Hiperconvergencia;
+Servidores & Almacenamiento;
+Todas las anteriores;
+Todas las anteriores;
+|
+¿Qué se festeja el 29 de abril en Argentina?
+El día del Bombero Voluntario;
+El día del Animal;
+El día de la Cultura Iberoamericana;
+El día del Animal;
+|
+¿Cuántas líneas de producto Dell Latitude están disponibles hoy?;
+Latitude Serie 3000 y 5000;
+Latitude Serie 7000 y 9000;
+Todas las anteriores;
+Todas las anteriores;
+|
+¿En cuántos países está presente Datastar?;
+3;
+5;
+8;
+8;
+|
+¿La canción “Puente” pertenece a qué músico argentino?;
+Fito Páez;
+Andrés Calamaro;
+Gustavo Cerati;
+Gustavo Cerati;
+|
+¿Cuál de estas plataformas pueden brindar Dell y Datastar de forma conjunta?;
+Hardware, software y servicios para el procesamiento de máquinas virtuales;
+Hardware, software y servicios para plataformas de Big Data y Machine Learning;
+Todas las anteriores;
+Todas las anteriores;
+|
+¿Cuál de estos servicios puedo desplegar con Dell EMC VxRail y Datastar?;
+Plataforma convergente para el despliegue de Bases de Datos sobre servidores Bare Metal;
+Plataforma hiperconvergente para el despliegue de Máquinas Virtuales sobre VMware;
+Solución de NAS de escalamiento horizontal, con capacidad de almacenamiento de grandes volúmenes de datos.;
+Plataforma hiperconvergente para el despliegue de Máquinas Virtuales sobre VMware;
+|
+¿Cuál de estos servicios puedo desplegar con Dell EMC Elastic Cloud Storage y Datastar?;
+Plataforma convergente para el despliegue de Bases de Datos sobre servidores Bare Metal;
+Sistema de almacenamiento para aplicaciones de negocio, aplicaciones móviles y plataformas de IOT y analítica,
+que utilicen almacenamiento de objetos, así como archiving a largo plazo;
+Solución de NAS de escalamiento horizontal, con capacidad de almacenamiento de grandes volúmenes de datos;
+Sistema de almacenamiento para aplicaciones de negocio, aplicaciones móviles y plataformas de IOT y analítica,
+que utilicen almacenamiento de objetos, así como archiving a largo plazo;
+|
+¿Qué solución de Dell y Datastar me permite implementar una estrategia de resguardo moderna en disco, con altas tasas de
+duplicación y compresión?;
+DellEMC PowerStore;
+DellEMC PowerProtect DD;
+DellEMC PowerEdge;
+DellEMC PowerProtect DD;
